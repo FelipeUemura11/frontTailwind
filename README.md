@@ -10,7 +10,7 @@ Esta aplicação permite criar, listar, atualizar, deletar e marcar tarefas como
  - Express (framework para web)
  - nodemon (monitoracao de arquivos)
  - Cors (conexao com front)
- - 
+   
 == FRONTEND == 
  - React-TypeScript
  - tailwindcss (Framework para estilizacao)
